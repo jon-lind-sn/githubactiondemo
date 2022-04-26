@@ -22,22 +22,22 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Demoing github actions</short_description>
         <source>2097c670970f41102b03d734a253afd4</source>
-        <store_correlation_id>REPOAPP0000001021</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001022</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>jon.lind</sys_created_by>
         <sys_created_on>2022-04-21 16:39:12</sys_created_on>
         <sys_id>2097c670970f41102b03d734a253afd4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>jon.lind</sys_updated_by>
-        <sys_updated_on>2022-04-25 22:38:37</sys_updated_on>
+        <sys_updated_on>2022-04-25 22:52:13</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.7</version>
+        <version>1.1.8</version>
     </sys_app>
 </record_update>
